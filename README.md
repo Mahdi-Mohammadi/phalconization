@@ -36,7 +36,7 @@ https://github.com/michaelkrone/rest-seed - Scaffold a REST API application Phal
 
 https://github.com/Riu/phaldoc - App create to translate Phalcon docs
 
-https://github.com/blackbunny/Url-Shortener- Simple Fast Url-Shortener application on Phalcon PHP Framework
+https://github.com/blackbunny/Url-Shortener Simple Fast Url-Shortener application on Phalcon PHP Framework
 
 https://github.com/duythien/blog - Blog project Multi-lingual Support
 
